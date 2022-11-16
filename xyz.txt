@@ -1,0 +1,4 @@
+karan manager account 15000
+vijay sales account 23000
+rahul manager account 40000
+vinay sales account 35000

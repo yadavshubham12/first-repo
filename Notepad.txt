@@ -1,0 +1,17 @@
+#!/bin/bash -x 
+
+echo "Hello world"
+
+
+
+
+
+
+z = $(($x+$y))
+
+echo "the addition is $z"
+
+
+echo $z is for value up
+
+#!/bin
